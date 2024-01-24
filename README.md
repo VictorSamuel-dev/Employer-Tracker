@@ -57,10 +57,10 @@ Victor & Friend SQL: Employee Tracker is designed any employer to track their em
 N/A
 
 ## Testing
-[Demo Link]()
+[Demo Link](https://www.loom.com/share/e9f6045277d0481da48c768447212fe5?sid=05772230-0b8c-47dd-b434-45634bff04ce)
 
 ## Repository Link
-[Repo Link]()
+[Repo Link](https://github.com/VictorSamuel-dev/Employer-Tracker)
 
 ## License
       
